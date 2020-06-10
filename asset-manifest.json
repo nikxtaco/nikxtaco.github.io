@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.00fd1c5d.chunk.css",
+    "main.js": "/static/js/main.bdc87a5e.chunk.js",
+    "main.js.map": "/static/js/main.bdc87a5e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bb7bb9f7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bb7bb9f7.js.map",
+    "static/js/2.c94dc093.chunk.js": "/static/js/2.c94dc093.chunk.js",
+    "static/js/2.c94dc093.chunk.js.map": "/static/js/2.c94dc093.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d6dc11d771735705d2f71bd18fba90cc.js": "/precache-manifest.d6dc11d771735705d2f71bd18fba90cc.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.00fd1c5d.chunk.css.map": "/static/css/main.00fd1c5d.chunk.css.map",
+    "static/js/2.c94dc093.chunk.js.LICENSE.txt": "/static/js/2.c94dc093.chunk.js.LICENSE.txt",
+    "static/media/team.css": "/static/media/tino.c0530048.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb7bb9f7.js",
+    "static/js/2.c94dc093.chunk.js",
+    "static/css/main.00fd1c5d.chunk.css",
+    "static/js/main.bdc87a5e.chunk.js"
+  ]
+}
