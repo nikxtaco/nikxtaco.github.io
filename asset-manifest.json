@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.00fd1c5d.chunk.css",
-    "main.js": "/static/js/main.bdc87a5e.chunk.js",
-    "main.js.map": "/static/js/main.bdc87a5e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.bb7bb9f7.js",
-    "runtime-main.js.map": "/static/js/runtime-main.bb7bb9f7.js.map",
-    "static/js/2.c94dc093.chunk.js": "/static/js/2.c94dc093.chunk.js",
-    "static/js/2.c94dc093.chunk.js.map": "/static/js/2.c94dc093.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.d6dc11d771735705d2f71bd18fba90cc.js": "/precache-manifest.d6dc11d771735705d2f71bd18fba90cc.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.00fd1c5d.chunk.css.map": "/static/css/main.00fd1c5d.chunk.css.map",
-    "static/js/2.c94dc093.chunk.js.LICENSE.txt": "/static/js/2.c94dc093.chunk.js.LICENSE.txt",
-    "static/media/team.css": "/static/media/tino.c0530048.jpg"
+    "main.css": "/nikxtaco.github.io/static/css/main.3bdf9056.chunk.css",
+    "main.js": "/nikxtaco.github.io/static/js/main.7a352b71.chunk.js",
+    "main.js.map": "/nikxtaco.github.io/static/js/main.7a352b71.chunk.js.map",
+    "runtime-main.js": "/nikxtaco.github.io/static/js/runtime-main.0cb455ec.js",
+    "runtime-main.js.map": "/nikxtaco.github.io/static/js/runtime-main.0cb455ec.js.map",
+    "static/js/2.4925cc07.chunk.js": "/nikxtaco.github.io/static/js/2.4925cc07.chunk.js",
+    "static/js/2.4925cc07.chunk.js.map": "/nikxtaco.github.io/static/js/2.4925cc07.chunk.js.map",
+    "index.html": "/nikxtaco.github.io/index.html",
+    "precache-manifest.00bec50d6195878f40ba98c7bfb72960.js": "/nikxtaco.github.io/precache-manifest.00bec50d6195878f40ba98c7bfb72960.js",
+    "service-worker.js": "/nikxtaco.github.io/service-worker.js",
+    "static/css/main.3bdf9056.chunk.css.map": "/nikxtaco.github.io/static/css/main.3bdf9056.chunk.css.map",
+    "static/js/2.4925cc07.chunk.js.LICENSE.txt": "/nikxtaco.github.io/static/js/2.4925cc07.chunk.js.LICENSE.txt",
+    "static/media/team.css": "/nikxtaco.github.io/static/media/tino.c0530048.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bb7bb9f7.js",
-    "static/js/2.c94dc093.chunk.js",
-    "static/css/main.00fd1c5d.chunk.css",
-    "static/js/main.bdc87a5e.chunk.js"
+    "static/js/runtime-main.0cb455ec.js",
+    "static/js/2.4925cc07.chunk.js",
+    "static/css/main.3bdf9056.chunk.css",
+    "static/js/main.7a352b71.chunk.js"
   ]
 }
